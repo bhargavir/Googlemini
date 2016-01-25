@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Google+ Mini</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_signout">Sign Out</string>
+    <string name="pick_account">Please pick an account to continue</string>
+    <string name="not_online">Device is offline</string>
+    <string name="title_activity_view_profile">ViewProfile</string>
+    <string name="action_settings">Settings</string>
+</resources>

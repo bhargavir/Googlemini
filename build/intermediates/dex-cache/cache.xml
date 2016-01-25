@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sriniketh\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-plusDomains\v1-rev117-1.19.1\ec772077b41aa76e659fc07f13c40806ac5929b\google-api-services-plusDomains-v1-rev117-1.19.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0ec772077b41aa76e659fc07f13c40806ac5929b">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\google-api-services-plusDomains-v1-rev117-1.19.1-df082d1fc87471eb5d256d0d3ca94a700e82f963.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\classes-92b8ba0c5c296a4bc05fe7ba426b10fac94086d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\classes-e6163355e6ebc381ffeca8312fc8b4d13226370c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-5f4d7861c381982c8c3ddffc941a9f23bf869518.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-b7a835d476612d1f06b0611fed7c49f9fe8d5341.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-92471496dd9a67be97cb9fc725d4741e250df594.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-97fc063d5f3d4902091d6c0e982b864a28f2982d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.19.0-316f5b8ddbe4065dbfa22de4102a82f870cf106a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-73e8e7cad81d7ed1e2c8122c62d0af6f2644017d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\classes-f8287655cf3c43a44577ddf334a799f27d8a9252.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-68b3fa2fb5f71a3328a6d0b3b4b254ebd5767d86.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.1\b09ccfa9ac71b52b60ba4c1ab630150685d58c32\google-api-client-1.19.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b09ccfa9ac71b52b60ba4c1ab630150685d58c32">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\google-api-client-1.19.1-01a9282763f7e234d2550017343f36eb89d85d12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sriniketh\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="C:\Users\Sriniketh\AndroidStudioProjects\Google+Mini\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-1733d0c50600ec299168a662ff135f28c1281e8b.jar" />
+    </item>
+
+</items>
